@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Brock"
+    given-names: "Darrell"
+    alias: "vectronyx"
+title: "Quantum BSP Diffusion Engine"
+version: 1.0.0
+date-released: 2025-12-27
+url: "https://github.com/Vectronyx/quantum-bsp-diffusion"
+license: MIT
+keywords:
+  - raymarching
+  - 4D geometry
+  - signed distance functions
+  - diffusion models
+  - BSP traversal
+abstract: "Sqrt-optimized 4D raymarching with probabilistic BSP traversal for Stable Diffusion integration."
