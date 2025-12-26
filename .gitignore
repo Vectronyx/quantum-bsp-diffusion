@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+models/
+output/
+*.gif
+*.png
+*.npy
+*.pt
+*.safetensors
